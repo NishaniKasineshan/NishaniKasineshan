@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- 
 **NishaniKasineshan/NishaniKasineshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <a href="https://github.com/iampawan">
+- ⚡ Fun fact: ... -->
+
+<a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaniKasineshan&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishaniKasineshan&show_icons=true&theme=dark&line_height=27" alt="Nishani's github stats"/>
 </a>
- -->
+
