@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 👀 I’m interested in Image Processing, Computer Vision, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Computer Engineering at University Of Peradeniya
 - 💞️ I’m looking to collaborate on Computer Vision projects
-- ⚡ Fun fact: I love sleeping 😴 
+- ⚡ Fun fact: I love taking power naps 😴 
 - 📫 How to reach me through my mail- k.nishani1999@gmail.com
 
 <!-- <a href="https://github.com/iampawan">
