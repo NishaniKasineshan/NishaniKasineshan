@@ -23,12 +23,12 @@ Here are some ideas to get you started:-->
 <p align="left"> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/k.nishani1999.png" alt="TryHackMe">
 </p>
-<!-- <a href="https://github.com/iampawan">
+<a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaniKasineshan&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishaniKasineshan&show_icons=true&theme=dark&line_height=27" alt="Nishani's github stats"/>
-</a> -->
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishaniKasineshan&theme=dark" alt="NishaniKasineshan" /></p>
 
