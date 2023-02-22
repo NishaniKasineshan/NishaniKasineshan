@@ -29,9 +29,9 @@ Here are some ideas to get you started:-->
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishaniKasineshan&show_icons=true&theme=dark&line_height=27" alt="Nishani's github stats"/>
 </a>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishaniKasineshan&theme=dark" alt="NishaniKasineshan" /></p>
 
-
+-->
 
 
