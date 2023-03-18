@@ -20,9 +20,9 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/nishani-kasineshan-1b6890189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishani-kasineshan-1b6890189" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15821025/nishani-kasineshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15821025" height="30" width="40" /></a>
 </p>
-<p align="left"> 
+<!-- <p align="left"> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/k.nishani1999.png" alt="TryHackMe">
-</p>
+</p> -->
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishaniKasineshan&theme=dark&hide_langs_below=1" />
 </a>
